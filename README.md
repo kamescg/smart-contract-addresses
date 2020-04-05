@@ -1,6 +1,9 @@
 # Ethereum Smart Contract Addresses
 A list of smart contact addresses.
 
+External Sources: 
+- [Money Legos - Dedge](https://github.com/studydefi/dedge/tree/master/packages/money-legos)
+
 #### template
 mainnet: `0x` <br/>
 kovan: `0x` <br/>
